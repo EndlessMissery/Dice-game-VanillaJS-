@@ -45,7 +45,3 @@ img {
 #play:hover {
   cursor: pointer;
 }
-
-#play:active {
-  background-color: #3c9175;
-}
